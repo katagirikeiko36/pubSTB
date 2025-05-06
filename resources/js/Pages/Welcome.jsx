@@ -65,6 +65,7 @@ export default function Welcome({ auth, laravelVersion, phpVersion }) {
                         </header>
 
                         <main className="mt-6">
+                            <h1 className="text-3xl font-bold text-center mb-8 text-black dark:text-white">Sample Application</h1>
                             <div className="grid gap-6 lg:grid-cols-2 lg:gap-8">
                                 <a
                                     href="https://laravel.com/docs"
